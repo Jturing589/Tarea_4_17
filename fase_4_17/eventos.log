@@ -1,0 +1,36 @@
+2026-07-05 12:03:13,763 | INFO | Cliente registrado: Carlos Martínez
+2026-07-05 12:03:13,763 | ERROR | Op 2 - Error al registrar cliente: El email 'correo-invalido' no es válido.
+2026-07-05 12:03:13,763 | ERROR | Op 3 - Error al registrar cliente: El nombre no puede estar vacío.
+2026-07-05 12:03:13,763 | INFO | Cliente registrado: María García
+2026-07-05 12:03:13,763 | INFO | Servicio agregado: Sala de Conferencias A
+2026-07-05 12:03:13,763 | INFO | Servicio agregado: Laptop HP ProBook
+2026-07-05 12:03:13,764 | INFO | Servicio agregado: Consultoría en Python
+2026-07-05 12:03:13,764 | INFO | Costo calculado para sala 'Sala de Conferencias A': $150,000
+2026-07-05 12:03:13,764 | INFO | Reserva 201 confirmada. Costo: $150,000
+2026-07-05 12:03:13,765 | INFO | Procesamiento de reserva 201 finalizado. Estado: confirmada
+2026-07-05 12:03:13,765 | INFO | Reserva creada para Carlos Martínez
+2026-07-05 12:03:13,765 | ERROR | Op 9 - Error en reserva: La duración debe ser un número positivo.
+2026-07-05 12:03:13,765 | INFO | Costo calculado para alquiler 'Laptop': $175,000 (5 días)
+2026-07-05 12:03:13,765 | INFO | Reserva 203 confirmada. Costo: $175,000
+2026-07-05 12:03:13,765 | INFO | Procesamiento de reserva 203 finalizado. Estado: confirmada
+2026-07-05 12:03:13,765 | INFO | Reserva creada para María García
+2026-07-05 12:03:13,765 | INFO | Reserva 201 cancelada exitosamente.
+2026-07-05 12:03:13,765 | ERROR | Op 12 - Error al cancelar: No se puede cancelar una reserva con estado 'cancelada'.
+2026-07-05 12:17:17,640 | INFO | Cliente registrado: Carlos Martínez
+2026-07-05 12:17:17,641 | ERROR | Op 2 - Error al registrar cliente: El email 'correo-invalido' no es válido.
+2026-07-05 12:17:17,642 | ERROR | Op 3 - Error al registrar cliente: El nombre no puede estar vacío.
+2026-07-05 12:17:17,642 | INFO | Cliente registrado: María García
+2026-07-05 12:17:17,643 | INFO | Servicio agregado: Sala de Conferencias A
+2026-07-05 12:17:17,643 | INFO | Servicio agregado: Laptop HP ProBook
+2026-07-05 12:17:17,644 | INFO | Servicio agregado: Consultoría en Python
+2026-07-05 12:17:17,645 | INFO | Costo calculado para sala 'Sala de Conferencias A': $150,000
+2026-07-05 12:17:17,646 | INFO | Reserva 201 confirmada. Costo: $150,000
+2026-07-05 12:17:17,646 | INFO | Procesamiento de reserva 201 finalizado. Estado: confirmada
+2026-07-05 12:17:17,646 | INFO | Reserva creada para Carlos Martínez
+2026-07-05 12:17:17,649 | ERROR | Op 9 - Error en reserva: La duración debe ser un número positivo.
+2026-07-05 12:17:17,649 | INFO | Costo calculado para alquiler 'Laptop': $175,000 (5 días)
+2026-07-05 12:17:17,649 | INFO | Reserva 203 confirmada. Costo: $175,000
+2026-07-05 12:17:17,649 | INFO | Procesamiento de reserva 203 finalizado. Estado: confirmada
+2026-07-05 12:17:17,650 | INFO | Reserva creada para María García
+2026-07-05 12:17:17,651 | INFO | Reserva 201 cancelada exitosamente.
+2026-07-05 12:17:17,652 | ERROR | Op 12 - Error al cancelar: No se puede cancelar una reserva con estado 'cancelada'.
